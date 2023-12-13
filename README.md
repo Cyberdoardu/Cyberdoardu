@@ -21,6 +21,16 @@ Here are some ideas to get you started:
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdoardu&theme=react&hide_border=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
+<div>
+  <br>
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HHFNWBQDRY.png">
+    <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+  </a>
+  
+  
+</div>
+
   
 <p align="center">
   <a href="https://t.me/idude5">
