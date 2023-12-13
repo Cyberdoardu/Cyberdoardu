@@ -36,7 +36,7 @@
 
 <div>
 <h3 align="left">🎖️ Certificações</h3>
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HHFNWBQDRY.png">
+  <a target="_blank" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HHFNWBQDRY.png">
     <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
   </a>
   
@@ -45,13 +45,13 @@
 
 <h3 align="left">📬 Contato</h3>
 <p align="left">
-  <a href="https://t.me/idude5">
+  <a target="_blank" href="https://t.me/idude5">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="#">
+  <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-matte/">
+  <a target="_blank" href="https://www.linkedin.com/in/eduardo-matte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
