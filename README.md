@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/edum.png" alt="TryHackMe">
+
+![Cyberdoardu's Stats](https://github-readme-stats.vercel.app/api?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+![Cyberdoardu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyberdoardu&theme=react&hide_border=true)
+
+![Cyberdoardu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&layout=compact)
