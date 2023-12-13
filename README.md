@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div>
+<div style="display: inline_block">
 <a href="https://t.me/idude5"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 <a href="#"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
