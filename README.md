@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/edum.png" alt="TryHackMe">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdoardu&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&layout=compact"/>
-</p>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberdoardu&theme=react&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 
 <p align="center">
   <a href="https://t.me/idude5">
@@ -31,3 +29,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
+
