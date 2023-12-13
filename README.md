@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberdoardu&theme=react&show_icons=true&hide_border=true&layout=compact" />
 
+
+<img href="https://t.me/idude5" height="180em" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<img height="180em" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+
