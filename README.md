@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <br>
+  Certificações<br>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HHFNWBQDRY.png">
     <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
   </a>
