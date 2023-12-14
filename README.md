@@ -35,11 +35,14 @@
 </div>
 
 <div>
-<h3 align="left">🎖️ Certificações</h3>
+<h3 align="left">🎖️ Certificados</h3>
   <a target="_blank" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HHFNWBQDRY.png">
     <img src="https://img.shields.io/badge/Jr%20Penetration%20Tester-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
   </a>
-  
+  <br>
+  <a target="_blank" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KI3FNKBFG0.png">
+    <img src="https://img.shields.io/badge/CompTIA%20Pentest+-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+  </a>
   
 </div>
 
