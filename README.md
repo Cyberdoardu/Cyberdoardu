@@ -43,6 +43,11 @@
   <a target="_blank" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KI3FNKBFG0.png">
     <img src="https://img.shields.io/badge/CompTIA%20Pentest+-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
   </a>
+  <br>
+  <a target="_blank" href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BWX3RBIIDI.png">
+    <img src="https://img.shields.io/badge/Red%20Teaming%20Learning%20Path+-TryHackMe-red?style=for-the-badge&logo=tryhackme"/>
+  </a>
+  
   
 </div>
 
